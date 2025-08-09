@@ -47,9 +47,3 @@ The formula calculator offers various mathematical formulas for triangles, circl
 - After each calculation, you will be asked whether you want to perform another calculation or exit the program.
 
 ---
-
-## Compile and Run
-
-```bash
-g++ -o calculator main.cpp
-./calculator
