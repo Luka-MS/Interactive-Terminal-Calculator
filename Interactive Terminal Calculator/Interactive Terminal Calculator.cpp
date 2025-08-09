@@ -8,6 +8,7 @@ int main() {
     int choice;
 
     do {
+        cout << "Interactive Terminal Calculator by Luka-M. S.";
         cout << "Choose a calculation type:\n";
         cout << "=== 1. Addition ===\n";
         cout << "=== 2. Subtraction ===\n";
@@ -273,3 +274,4 @@ int main() {
 
     return 0;
 }
+// CODE BY Luka-M. S.
